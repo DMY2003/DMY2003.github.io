@@ -6,6 +6,14 @@
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
+	<image:loc>https://dmy2003.github.io/img/profile%20pic.jpg</image:loc>
+	<image:title>profile pic</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/profile%20pic.webp</image:loc>
+	<image:title>profile pic</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://dmy2003.github.io/img/loreal%20icon.png</image:loc>
 	<image:title>kcl icon</image:title>
 	</image:image>
