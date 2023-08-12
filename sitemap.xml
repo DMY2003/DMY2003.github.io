@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://dmy2003.github.io/</loc>
+	<lastmod>2023-08-12</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/loreal%20icon.png</image:loc>
+	<image:title>kcl icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/loreal%20icon.webp</image:loc>
+	<image:title>kcl icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/kcl%20icon.png</image:loc>
+	<image:title>kcl icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/kcl%20icon.webp</image:loc>
+	<image:title>kcl icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/kesw%20icon.png</image:loc>
+	<image:title>kcl icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/kesw%20icon.webp</image:loc>
+	<image:title>kcl icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/csgo%20cheat.jpg</image:loc>
+	<image:title>csgo cheat</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/csgo%20cheat.webp</image:loc>
+	<image:title>csgo cheat</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dmy2003.github.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
